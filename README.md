@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mwrld
+- 👋 Hi, I’m @MichaelYumi
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Nextjs 
 - 📫 How to reach me ewememichael@gmail.com
 
 <!---
