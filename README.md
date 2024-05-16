@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichaelYumi
+- 👋 Hi, I’m @Mwrld
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Nextjs 
 - 📫 How to reach me ewememichael@gmail.com
